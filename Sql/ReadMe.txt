@@ -1,0 +1,1 @@
+The goal of the course was to design, construct and develop a Data Base for a Transport Company. At the same time the manipulations with the DB were performed to show how to use the advanced techniques in Sql.
